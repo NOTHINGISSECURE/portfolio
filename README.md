@@ -57,13 +57,8 @@ portfolio/
 
 ## Live Demo
 
-[Add your live demo link here]
+[https://nothingissecure.github.io/portfolio/]
 
-## Contact
-
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- YouTube: [Your YouTube Channel]
 
 ## License
 
